@@ -1,4 +1,4 @@
-# Red de procedencia: Álbum ZAC y *Mujeres de ayer y de hoy*
+# Red de procedencia: Álbum Zoila A. Cáceres y *Mujeres de ayer y de hoy*
 
 Grafo dirigido, tipado y multipartito que vincula el álbum personal de Zoila Aurora
 Cáceres (1872-1958) con los capítulos VIII-XV de *Mujeres de ayer y de hoy* (1909).
@@ -10,7 +10,7 @@ Cáceres (1872-1958) con los capítulos VIII-XV de *Mujeres de ayer y de hoy* (1
 El grafo se abre directamente en Gephi Lite:
 
 ```
-https://lite.gephi.org/?file=https://raw.githubusercontent.com/USUARIO/REPO/refs/heads/main/data/zac_album_mujeres_piloto.gexf
+https://lite.gephi.org/?file=https://raw.githubusercontent.com/moarak/zac-red/refs/heads/main/data/zac_album_mujeres_piloto.gexf
 ```
 
 ## Contenido
