@@ -10,7 +10,7 @@ Cáceres (1872-1958) con los capítulos VIII-XV de *Mujeres de ayer y de hoy* (1
 El grafo se abre directamente en Gephi Lite:
 
 ```
-https://lite.gephi.org/?file=https://raw.githubusercontent.com/moarak/zac-red/refs/heads/main/data/zac_album_mujeres_piloto.gexf
+https://lite.gephi.org/?file=https://raw.githubusercontent.com/moarak/zac-red/refs/heads/main/data/zac_album_mujeres_piloto.json
 ```
 
 ## Contenido
