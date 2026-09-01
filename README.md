@@ -1,6 +1,6 @@
 # Red de procedencia: Álbum Zoila A. Cáceres y *Mujeres de ayer y de hoy*
 
-Grafo dirigido, tipado y multipartito que vincula el álbum personal de Zoila Aurora
+Grafo dirigido, multipartito y con relaciones tipificadas que vincula el álbum personal de Zoila Aurora
 Cáceres (1872-1958) con los capítulos VIII-XV de *Mujeres de ayer y de hoy* (1909).
 
 **67 nodos · 105 aristas · 6 tipos de nodo · 21 tipos de relación**
