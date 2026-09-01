@@ -1,0 +1,22 @@
+tipoRelación	definición	predicado	confianzaPorDefecto	nAristas
+derivación textual	La unidad textual se apoya en el ítem del álbum	prov:wasDerivedFrom	hipótesis	15
+entrevista concedida	El agente responde al cuestionario	prov:wasAttributedTo	confirmado	13
+mención en el libro	La unidad textual nombra al agente	crm:P67_refers_to	confirmado	12
+destinatario	ZAC recibe el envío documentado por el ítem	crm:P02_has_range	confirmado	11
+fundación	El agente funda la organización o publicación	crm:P94_has_created	confirmado	10
+correspondencia	Ítem epistolar dirigido a ZAC por la persona/entidad	prov:wasAttributedTo	confirmado	8
+presidencia	El agente preside la organización	crm:P107_has_current_or_former_member	confirmado	7
+recopilación	ZAC selecciona y pega el ítem en el álbum	prov:wasAttributedTo	confirmado	5
+afiliación	Pertenencia de un agente a una organización	crm:P107_has_current_or_former_member	confirmado	5
+intermediación	La corresponsal gestiona ante un tercero el acceso solicitado	prov:wasInfluencedBy	confirmado	3
+dirección editorial	El agente dirige la publicación	crm:P14_carried_out_by	confirmado	3
+mención documental	Ítem cuyo sujeto es la persona; autoría de terceros	prov:wasInfluencedBy	confirmado	2
+obra recopilada	Texto de la persona pegado en el álbum	prov:wasDerivedFrom	confirmado	2
+sucesión	Un agente sucede a otro en un cargo	prov:wasInfluencedBy	confirmado	2
+entrevista epistolar	Carta catalogada explícitamente como entrevista	prov:wasDerivedFrom	confirmado	1
+vinculación institucional	Vínculo de un agente con una organización, sin cargo precisado	prov:actedOnBehalfOf	hipótesis	1
+colaboración editorial	El agente colabora en la publicación	crm:P14_carried_out_by	confirmado	1
+colaboración	Trabajo conjunto entre dos agentes	prov:wasInfluencedBy	confirmado	1
+divergencia	El texto contrasta la posición de dos agentes	crm:P67_refers_to	confirmado	1
+entrevista rechazada	El agente declina responder al cuestionario	prov:wasInfluencedBy	confirmado	1
+solicitud	ZAC pide a una intermediaria que gestione acceso a un tercero	prov:wasInfluencedBy	confirmado	1

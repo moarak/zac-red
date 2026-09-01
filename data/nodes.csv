@@ -1,0 +1,68 @@
+idNodo,etiqueta,tipoNodo,granoTexto,idAutoridad,fuente,capítulo,ubicación,nota
+TXT0008,Capítulo VIII: Alemanas,textoLibro,capítulo,[no aplica],Mujeres de ayer y de hoy (1909),VIII,871-1127,sin encabezados de sección
+TXT0009,Capítulo IX: Argentinas,textoLibro,capítulo,[no aplica],Mujeres de ayer y de hoy (1909),IX,1128-1181,sin encabezados de sección
+TXT0010,Capítulo X: Peruanas,textoLibro,capítulo,[no aplica],Mujeres de ayer y de hoy (1909),X,1182-1357,sin encabezados de sección
+TXT0011,La señora Avril de Sainte-Croix,textoLibro,sección,[no aplica],Mujeres de ayer y de hoy (1909),XI,1508-1523,
+TXT0012,Marcelle Tinayre,textoLibro,sección,[no aplica],Mujeres de ayer y de hoy (1909),XII,1608-1629,crítica de La Maison du Péché; sin material de entrevista
+TXT0015,Capítulo XV: Literatura femenina,textoLibro,capítulo,[no aplica],Mujeres de ayer y de hoy (1909),XV,1901-2030,sin encabezados de sección
+PER0001,"Cáceres, Zoila Aurora, 1872-1958",persona,[no aplica],https://www.wikidata.org/wiki/Q4822525,—,—,—,confirmado
+PER0002,"Lange, Helene, 1848-1930",persona,[no aplica],https://www.wikidata.org/wiki/Q75209,—,—,—,confirmado | cap. VIII: cuestionario concedido
+PER0003,"Zitelmann, Katharina, 1844-1926",persona,[no aplica],https://www.wikidata.org/wiki/Q1736024,—,—,—,confirmado | cap. VIII: cuestionario concedido
+PER0004,"Vely, Emma, 1848-1934",persona,[no aplica],https://www.wikidata.org/wiki/Q15452068,—,—,—,confirmado | cap. VIII: cuestionario concedido
+PER0005,"Reuter, Gabriele, 1859-1941",persona,[no aplica],https://www.wikidata.org/wiki/Q99301,—,—,—,confirmado | cap. VIII: cuestionario concedido
+PER0006,"Sala, Alvina van Praet de",persona,[no aplica],https://www.wikidata.org/wiki/Q95749957,—,—,—,confirmado
+PER0007,"Arana, María Augusta",persona,[no aplica],[pendiente],—,—,—,identificador pendiente
+PER0008,"Muñoz, Margarita Práxedes, 1862-1909",persona,[no aplica],https://www.wikidata.org/wiki/Q104777909,—,—,—,confirmado
+PER0009,"Matto de Turner, Clorinda, 1852-1909",persona,[no aplica],https://www.wikidata.org/wiki/Q463299,—,—,—,confirmado
+PER0010,"Margueritte, Victor, 1866-1942",persona,[no aplica],https://www.wikidata.org/wiki/Q2616465,—,—,—,confirmado
+PER0011,"Paul-Margueritte, Lucie, 1886-1955",persona,[no aplica],https://www.wikidata.org/wiki/Q18195871,—,—,—,confirmado
+PER0012,"Tinayre, Marcelle, 1870-1948",persona,[no aplica],https://www.wikidata.org/wiki/Q3289600,—,—,—,identificador pendiente
+ORG0001,Consejo Nacional de Mujeres de la República Argentina,organización,[no aplica],[pendiente],—,—,—,identificador pendiente
+ORG0002,Deutscher Frauen-Club,organización,[no aplica],[pendiente],—,—,—,identificador pendiente
+ZAC-112-carta,Carta del Consejo Nacional de Mujeres de la República Argentina a Zoil,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,1904-11,carta
+ZAC-220/221-carta,Carta de Alvina v. P. de Sala a Zoila Aurora Cáceres,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,1903-03-18,carta
+ZAC-103-tarjeta,Tarjeta de Emma Vely,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],tarjeta
+ZAC-109/111-carta,Copia editada de artículo sobre Helene Lange y entrevista epistolar,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,1896-01-01,carta
+ZAC-014-carta,Carta de Helene Lange a Zoila Aurora Cáceres,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,1902-11-18,carta
+ZAC-242-carnet,Carné de Zoila Aurora Cáceres,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],carné de identidad
+ZAC-245/249-carta,Carta de Katharina Zitelmann [entrevista epistolar],itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],carta
+ZAC-256/258-carta,Carta de Gabriele Reuter a Zoila Aurora Cáceres,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[ininteligible],carta
+ZAC-054/056-carta,Carta de Katharina Zitelmann a Zoila Aurora Cáceres,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,1902-10-20,carta
+ZAC-107/108-tarjeta,Tarjeta de María Augusta Arana,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,1904-09-26,tarjeta
+ZAC-116/117-recorte,Plumas y lápices,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],recorte
+ZAC-121-recorte,Eva Angelina,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],recorte
+ZAC-244-recorte,Clorinda Matto de Turner,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],recorte
+ZAC-135/136-nota,Nota de Victor Margueritte,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],nota
+ZAC-157/158-carta,Carta de L. Margueritte a Zoila Aurora Cáceres,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],carta
+ZAC-210/211-carta,Carta de L. Margueritte a Zoila Aurora Cáceres,itemAlbum,[no aplica],[no aplica],Álbum ZAC 1892-1910,—,[no disponible],carta
+PER0016,"Salomon, Alice, 1872-1948",persona,[no aplica],https://www.wikidata.org/wiki/Q106209,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0021,"Morgenstern, Lina, 1830-1909",persona,[no aplica],https://www.wikidata.org/wiki/Q66502,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0022,"Cauer, Minna, 1841-1922",persona,[no aplica],https://www.wikidata.org/wiki/Q75202,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0023,"Braun, Lily, 1865-1916",persona,[no aplica],https://www.wikidata.org/wiki/Q71372,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0024,"Raschke, Maria, 1850-1935",persona,[no aplica],https://www.wikidata.org/wiki/Q1522221,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0025,"Augspurg, Anita, 1857-1943",persona,[no aplica],https://www.wikidata.org/wiki/Q71410,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0026,"Duncker, Dora, 1855-1916",persona,[no aplica],https://www.wikidata.org/wiki/Q1243601,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0027,"Mellien, Marie, 1851-",persona,[no aplica],https://www.wikidata.org/wiki/Q95660421,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0028,"Broicher, Charlotte",persona,[no aplica],https://www.wikidata.org/wiki/Q95004268,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: concedida
+PER0029,"Dyhrenfurth, Gertrud, 1862-1946",persona,[no aplica],https://www.wikidata.org/wiki/Q104449818,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: no consta
+PER0030,"Andréas-Salomé, Lou, 1861-1937",persona,[no aplica],https://www.wikidata.org/wiki/Q38873,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: rechazada
+PER0031,"Schlieben, condesa de",persona,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: no consta
+PER0032,"López Housselle, María",persona,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: no consta
+PER0033,"Schmidt, Auguste, 1833-1902",persona,[no aplica],https://www.wikidata.org/wiki/Q89677,Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: no aplica
+PER0034,"Wachsmuts, señora",persona,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,cuestionario: no aplica
+ORG0003,Allgemeine Deutsche Lehrerinnenverein,organización,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0004,Bund Deutscher Frauenvereine,organización,[no aplica],https://www.wikidata.org/wiki/Q1005015,Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0005,Berliner Frauenverein,organización,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0006,Verein Frauenwohl,organización,[no aplica],https://www.wikidata.org/wiki/Q2514713,Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0007,Gesellschaft für ethische Kultur,organización,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0008,Mädchen und Frauengruppen für Soziale Hilfsarbeit,organización,[no aplica],https://www.wikidata.org/wiki/Q1630675,Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0009,Deutscher Verein für Frauenstimmrecht,organización,[no aplica],https://www.wikidata.org/wiki/Q1205427,Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0010,Schriftstellerinnenbund,organización,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0011,Neuer Volksschullehrerinnen-Verein,organización,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0012,Kaufmännischer Hilfsverein für weibliche Angestellte,organización,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+ORG0013,Volksküchen,organización,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+PUB0001,Die Frau,publicación,[no aplica],https://www.wikidata.org/wiki/Q1212548,Mujeres de ayer y de hoy (1909),VIII,871-1127,
+PUB0002,Die Frauenbewegung,publicación,[no aplica],https://www.wikidata.org/wiki/Q1212727,Mujeres de ayer y de hoy (1909),VIII,871-1127,
+PUB0003,Deutsche Hausfrauen-Zeitung,publicación,[no aplica],https://www.wikidata.org/wiki/Q88568495,Mujeres de ayer y de hoy (1909),VIII,871-1127,
+PUB0004,Sonntagsblatt,publicación,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,
+INS0001,"Cuestionario de siete preguntas (Berlín, 1902)",instrumento,[no aplica],[pendiente],Mujeres de ayer y de hoy (1909),VIII,871-1127,

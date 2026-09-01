@@ -1,0 +1,63 @@
+formaSuperficie	idPersona	fuente	tipoVariante	esAmbigua	notaDesambiguación
+Lange, Helene, 1848-1930	PER0002	album	forma de autoridad	no	
+Elena Lange	PER0002	mujeres	hispanización del nombre de pila	no	
+Zitelmann, Katharina, 1844-1926	PER0003	album	forma de autoridad	no	
+Katharina Zitelmann	PER0003	mujeres	orden directo	no	
+K. Zitelmann	PER0003	mujeres	inicial abreviada	no	
+Vely, Emma, 1848-1934	PER0004	album	forma de autoridad	no	
+Emma Vely	PER0004	mujeres	orden directo	no	
+Reuter, Gabriele, 1859-1941	PER0005	album	forma de autoridad	no	
+Gabriela Reuter	PER0005	mujeres	hispanización del nombre de pila	no	
+Sala, Alvina van Praet de	PER0006	album	forma de autoridad	no	
+Alvina v. P. de Sala	PER0006	album	abreviatura en título del ítem	no	
+Alvina Van Prat de Sala	PER0006	mujeres	variante ortográfica (Praet/Prat)	no	
+Sala	—	—	apellido aislado	sí	palabra común en español; no usar como clave
+Arana, María Augusta	PER0007	album	forma de autoridad	no	
+María Augusta Arana	PER0007	mujeres	orden directo	no	
+Muñoz, Margarita Práxedes, 1862-1909	PER0008	album	forma de autoridad	no	
+Práxedes Margarita Muñoz	PER0008	mujeres	inversión de nombres de pila	no	
+Práxedes Muñoz	PER0008	mujeres	forma abreviada	no	
+Matto de Turner, Clorinda, 1852-1909	PER0009	album	forma de autoridad	no	
+Clorinda Matto de Turner	PER0009	mujeres	orden directo	no	
+Clorinda Matto	PER0009	mujeres	forma abreviada	no	
+Margueritte, Victor, 1866-1942	PER0010	album	forma de autoridad	no	
+Víctor Margueritte	PER0010	mujeres	acentuación española	no	
+Margueritte, L.	PER0011	album	inicial abreviada	no	resuelto por firma autógrafa; la inicial lo distingue de PER0013
+Lucie P. Margueritte	PER0011	manuscrito	firma autógrafa	no	
+Lucie Paul Margueritte	PER0011	mujeres	forma sin guion	no	
+Marcelle Tinayre	PER0012	mujeres	forma corriente	no	
+Marcel Tinayre	PER0012	mujeres	errata en cita de León Blum (l. 1405)	no	
+Paul Margueritte	PER0014	mujeres	forma corriente	sí	subcadena de «Lucie Paul Margueritte» (PER0011)
+M. Paul Margueritte	PER0014	mujeres	tratamiento + nombre	no	
+Margueritte	—	—	apellido aislado	sí	cuatro entidades: PER0010, PER0011, PER0013, PER0014
+Paul-Margueritte	—	—	apellido compuesto	sí	PER0011 y PER0013; sólo la inicial las separa
+Salomón Osorio, Alberto, 1877-1959	PER0015	album	forma de autoridad	no	
+Alice Salomón	PER0016	mujeres	orden directo	no	
+Pérez García, Darío, 1869-1945	PER0017	album	forma de autoridad	no	
+Elvira García	PER0018	mujeres	orden directo	no	
+García	—	—	apellido aislado	sí	PER0017 y PER0018
+Pardo y Barreda, José, 1864-1947	PER0019	album	forma de autoridad	no	
+condesa de Pardo Bazán	PER0020	mujeres	título nobiliario	no	aparece en la dedicatoria, no en caps. VIII-XV
+Pardo	—	—	apellido aislado	sí	PER0019 y PER0020
+Consejo Nacional de Mujeres de la República Argentina	ORG0001	album	forma de autoridad	no	
+Consejo Nacional de Mujeres	ORG0001	mujeres	forma abreviada	sí	existen consejos homónimos en Francia y Alemania (caps. VIII, XI, XIV)
+Deutscher Frauen-Club	ORG0002	album	forma de autoridad	no	
+Adam	—	—	cadena corta	sí	coincide dentro de «Madame»; nunca usar sin límite de palabra
+Mora	—	—	cadena corta	sí	coincide con el título «Fernando Mora» (ZAC-148-recorte4)
+Cáceres	PER0001	—	apellido aislado	sí	coincide con Antonia Moreno de Cáceres, madre, no atestiguada en el álbum
+Alice Salomón	PER0016	mujeres	acentuación española del apellido	no	
+Mina Cauer	PER0022	mujeres	forma predominante en el libro (l. 894, 914, 941, 1060, 1066)	no	
+Minna Cauer	PER0022	mujeres	forma de autoridad, usada una sola vez (l. 916)	no	
+María Raschke	PER0024	mujeres	hispanización del nombre de pila	no	
+María Mellien	PER0027	mujeres	hispanización del nombre de pila	no	
+Gertrud Dihrenfurth	PER0029	mujeres	errata del libro por Dyhrenfurth (l. 1022)	no	
+Andrea Salomé	PER0030	mujeres	forma muy divergente; sin tokens comunes con la forma de autoridad	no	ninguna coincidencia automática la habría resuelto
+Augusta Schmidt	PER0033	mujeres	hispanización del nombre de pila	no	
+María López Housselle	PER0032	mujeres	hispanización del nombre de pila	no	
+Lina Morgenstern	PER0021	mujeres	coincide con la forma de autoridad	no	
+Lily Braun	PER0023	mujeres	coincide con la forma de autoridad	no	
+Anita Augspurg	PER0025	mujeres	coincide con la forma de autoridad	no	
+Dora Duncker	PER0026	mujeres	coincide con la forma de autoridad	no	
+Charlotte Broicher	PER0028	mujeres	coincide con la forma de autoridad	no	
+Salomé	—	—	apellido aislado	sí	PER0030 y, por proximidad gráfica, PER0015/PER0016
+Salomón	—	—	apellido aislado	sí	PER0015, PER0016, PER0030 y el rey bíblico (caps. I-VII): colisión de cuatro vías

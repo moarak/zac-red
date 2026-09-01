@@ -1,0 +1,106 @@
+origen,destino,tipoRelación,predicado,dirección,fuenteEvidencia,confianza,nota
+ZAC-112-carta,ORG0001,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-112-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-220/221-carta,PER0006,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-220/221-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-103-tarjeta,PER0004,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-103-tarjeta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-109/111-carta,PER0002,mención documental,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-109/111-carta,PER0001,recopilación,prov:wasAttributedTo,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC selecciona y pega el ítem en el álbum
+ZAC-014-carta,PER0002,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-014-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-242-carnet,ORG0002,afiliación,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-242-carnet,PER0001,recopilación,prov:wasAttributedTo,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC selecciona y pega el ítem en el álbum
+ZAC-245/249-carta,PER0003,entrevista epistolar,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-245/249-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-256/258-carta,PER0005,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-256/258-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-054/056-carta,PER0003,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-054/056-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-107/108-tarjeta,PER0007,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-107/108-tarjeta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-116/117-recorte,PER0009,obra recopilada,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-116/117-recorte,PER0001,recopilación,prov:wasAttributedTo,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC selecciona y pega el ítem en el álbum
+ZAC-121-recorte,PER0008,obra recopilada,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-121-recorte,PER0001,recopilación,prov:wasAttributedTo,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC selecciona y pega el ítem en el álbum
+ZAC-244-recorte,PER0009,mención documental,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-244-recorte,PER0001,recopilación,prov:wasAttributedTo,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC selecciona y pega el ítem en el álbum
+ZAC-135/136-nota,PER0010,correspondencia,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-135/136-nota,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-157/158-carta,PER0011,intermediación,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-157/158-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+ZAC-210/211-carta,PER0011,intermediación,prov:wasAttributedTo,dirigida,transcripción del ítem,confirmado,
+ZAC-210/211-carta,PER0001,destinatario,crm:P02_has_range,dirigida,ZAC recopila el ítem en el álbum,confirmado,ZAC receptora del envío
+TXT0008,PER0002,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0008,PER0003,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0008,PER0004,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0008,PER0005,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0009,PER0006,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0009,ORG0001,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0010,PER0007,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0010,PER0008,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0010,PER0009,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0011,PER0010,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0015,PER0011,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0012,PER0012,mención en el libro,crm:P67_refers_to,dirigida,texto impreso,confirmado,
+TXT0008,ZAC-014-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0008,ZAC-109/111-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0008,ZAC-054/056-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0008,ZAC-245/249-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0008,ZAC-103-tarjeta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0008,ZAC-256/258-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0009,ZAC-220/221-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0009,ZAC-112-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0010,ZAC-107/108-tarjeta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0010,ZAC-121-recorte,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0010,ZAC-116/117-recorte,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0010,ZAC-244-recorte,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0011,ZAC-135/136-nota,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0015,ZAC-157/158-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+TXT0015,ZAC-210/211-carta,derivación textual,prov:wasDerivedFrom,dirigida,hipótesis interpretativa,hipótesis,coincidencia de entidad; no verificada frase a frase
+PER0011,PER0012,intermediación,prov:wasInfluencedBy,dirigida,contenido de ZAC-157/158 y ZAC-210/211,confirmado,gestión de acceso solicitada por ZAC
+PER0001,ORG0002,afiliación,crm:P107_has_current_or_former_member,dirigida,ZAC-242-carnet,confirmado,
+PER0006,ORG0001,vinculación institucional,prov:actedOnBehalfOf,dirigida,cap. IX,hipótesis,presidencia por confirmar
+PER0002,ORG0003,fundación,—,dirigida,"1890, con PER0016 y PER0032 (l. 904)",confirmado,aserción del propio cap. VIII
+PER0016,ORG0003,fundación,—,dirigida,1890 (l. 904),confirmado,aserción del propio cap. VIII
+PER0032,ORG0003,fundación,—,dirigida,1890 (l. 904),confirmado,aserción del propio cap. VIII
+PER0002,ORG0005,fundación,—,dirigida,l. 906,confirmado,aserción del propio cap. VIII
+PER0023,ORG0007,fundación,—,dirigida,l. 933,confirmado,aserción del propio cap. VIII
+PER0016,ORG0008,fundación,—,dirigida,l. 937,confirmado,aserción del propio cap. VIII
+PER0025,ORG0009,fundación,—,dirigida,preside desde 1892 (l. 969),confirmado,aserción del propio cap. VIII
+PER0022,ORG0012,fundación,—,dirigida,cofundadora (l. 918),confirmado,aserción del propio cap. VIII
+PER0021,ORG0013,fundación,—,dirigida,"cocinas populares, 1866 (l. 888)",confirmado,aserción del propio cap. VIII
+PER0021,PUB0003,fundación,—,dirigida,l. 890,confirmado,aserción del propio cap. VIII
+PER0002,ORG0003,presidencia,—,dirigida,l. 904,confirmado,aserción del propio cap. VIII
+PER0002,ORG0004,presidencia,—,dirigida,sucede a PER0033 (l. 906),confirmado,aserción del propio cap. VIII
+PER0024,ORG0004,presidencia,—,dirigida,"sección jurídica (l. 951, 1056)",confirmado,aserción del propio cap. VIII
+PER0024,ORG0006,presidencia,—,dirigida,l. 1056,confirmado,aserción del propio cap. VIII
+PER0024,ORG0011,presidencia,—,dirigida,l. 1056,confirmado,aserción del propio cap. VIII
+PER0025,ORG0009,presidencia,—,dirigida,desde 1892 (l. 969),confirmado,aserción del propio cap. VIII
+PER0003,ORG0010,presidencia,—,dirigida,designada para suceder a PER0034 (l. 1003),confirmado,aserción del propio cap. VIII
+PER0024,ORG0006,afiliación,—,dirigida,miembro desde 1894 (l. 951),confirmado,aserción del propio cap. VIII
+PER0027,ORG0005,afiliación,—,dirigida,l. 1013,confirmado,aserción del propio cap. VIII
+PER0022,ORG0006,afiliación,—,dirigida,dirige la sociedad (l. 941),confirmado,aserción del propio cap. VIII
+PER0002,PUB0001,dirección editorial,—,dirigida,l. 902,confirmado,aserción del propio cap. VIII
+PER0022,PUB0002,dirección editorial,—,dirigida,l. 918,confirmado,aserción del propio cap. VIII
+PER0004,PUB0004,dirección editorial,—,dirigida,l. 1034,confirmado,aserción del propio cap. VIII
+PER0027,PUB0001,colaboración editorial,—,dirigida,l. 1011,confirmado,aserción del propio cap. VIII
+PER0016,PER0002,colaboración,—,dirigida,colabora al lado de Elena Lange (l. 935),confirmado,aserción del propio cap. VIII
+PER0002,PER0033,sucesión,—,dirigida,asume la presidencia de ORG0004 a su muerte (l. 906),confirmado,aserción del propio cap. VIII
+PER0003,PER0034,sucesión,—,dirigida,designada para sucederla en ORG0010 (l. 1003),confirmado,aserción del propio cap. VIII
+PER0002,PER0022,divergencia,—,dirigida,labor reposada frente a la de Mina Cauer (l. 894),confirmado,aserción del propio cap. VIII
+PER0002,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0003,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0004,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0005,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0016,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0021,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0022,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0023,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0024,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0025,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0026,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0027,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0028,INS0001,entrevista concedida,—,dirigida,respuesta citada en el cap. VIII,confirmado,aserción del propio cap. VIII
+PER0030,INS0001,entrevista rechazada,—,dirigida,refractaria a los interrogatorios (l. 1046-1048),confirmado,aserción del propio cap. VIII
+PER0001,PER0011,solicitud,prov:wasInfluencedBy,dirigida,contenido de ZAC-157/158 y ZAC-210/211,confirmado,ZAC pide la gestión ante PER0012

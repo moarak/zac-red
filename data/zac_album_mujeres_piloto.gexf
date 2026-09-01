@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <meta lastmodifieddate="2026-09-01">
+    <creator>Proyecto Zoila Aurora Caceres</creator>
+    <description>Album ZAC (1892-1910) + Mujeres de ayer y de hoy (1909), caps. VIII-XV</description>
+  </meta>
+  <graph mode="static" defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="tipoNodo" title="tipoNodo" type="string"/>
+      <attribute id="granoTexto" title="granoTexto" type="string"/>
+      <attribute id="idAutoridad" title="idAutoridad" type="string"/>
+      <attribute id="fuente" title="fuente" type="string"/>
+      <attribute id="capitulo" title="capitulo" type="string"/>
+      <attribute id="ubicacion" title="ubicacion" type="string"/>
+      <attribute id="nota" title="nota" type="string"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="tipoRelacion" title="tipoRelacion" type="string"/>
+      <attribute id="predicado" title="predicado" type="string"/>
+      <attribute id="fuenteEvidencia" title="fuenteEvidencia" type="string"/>
+      <attribute id="confianza" title="confianza" type="string"/>
+      <attribute id="notaArista" title="notaArista" type="string"/>
+    </attributes>
+    <nodes count="67">
+      <node id="TXT0008" label="Capítulo VIII: Alemanas">
+        <attvalues>
+          <attvalue for="tipoNodo" value="textoLibro"/>
+          <attvalue for="granoTexto" value="capítulo"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="sin encabezados de sección"/>
+        </attvalues>
+      </node>
+      <node id="TXT0009" label="Capítulo IX: Argentinas">
+        <attvalues>
+          <attvalue for="tipoNodo" value="textoLibro"/>
+          <attvalue for="granoTexto" value="capítulo"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="IX"/>
+          <attvalue for="ubicacion" value="1128-1181"/>
+          <attvalue for="nota" value="sin encabezados de sección"/>
+        </attvalues>
+      </node>
+      <node id="TXT0010" label="Capítulo X: Peruanas">
+        <attvalues>
+          <attvalue for="tipoNodo" value="textoLibro"/>
+          <attvalue for="granoTexto" value="capítulo"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="X"/>
+          <attvalue for="ubicacion" value="1182-1357"/>
+          <attvalue for="nota" value="sin encabezados de sección"/>
+        </attvalues>
+      </node>
+      <node id="TXT0011" label="La señora Avril de Sainte-Croix">
+        <attvalues>
+          <attvalue for="tipoNodo" value="textoLibro"/>
+          <attvalue for="granoTexto" value="sección"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="XI"/>
+          <attvalue for="ubicacion" value="1508-1523"/>
+        </attvalues>
+      </node>
+      <node id="TXT0012" label="Marcelle Tinayre">
+        <attvalues>
+          <attvalue for="tipoNodo" value="textoLibro"/>
+          <attvalue for="granoTexto" value="sección"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="XII"/>
+          <attvalue for="ubicacion" value="1608-1629"/>
+          <attvalue for="nota" value="crítica de La Maison du Péché; sin material de entrevista"/>
+        </attvalues>
+      </node>
+      <node id="TXT0015" label="Capítulo XV: Literatura femenina">
+        <attvalues>
+          <attvalue for="tipoNodo" value="textoLibro"/>
+          <attvalue for="granoTexto" value="capítulo"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="XV"/>
+          <attvalue for="ubicacion" value="1901-2030"/>
+          <attvalue for="nota" value="sin encabezados de sección"/>
+        </attvalues>
+      </node>
+      <node id="PER0001" label="Cáceres, Zoila Aurora, 1872-1958">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q4822525"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado"/>
+        </attvalues>
+      </node>
+      <node id="PER0002" label="Lange, Helene, 1848-1930">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q75209"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado | cap. VIII: cuestionario concedido"/>
+        </attvalues>
+      </node>
+      <node id="PER0003" label="Zitelmann, Katharina, 1844-1926">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1736024"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado | cap. VIII: cuestionario concedido"/>
+        </attvalues>
+      </node>
+      <node id="PER0004" label="Vely, Emma, 1848-1934">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q15452068"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado | cap. VIII: cuestionario concedido"/>
+        </attvalues>
+      </node>
+      <node id="PER0005" label="Reuter, Gabriele, 1859-1941">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q99301"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado | cap. VIII: cuestionario concedido"/>
+        </attvalues>
+      </node>
+      <node id="PER0006" label="Sala, Alvina van Praet de">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q95749957"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado"/>
+        </attvalues>
+      </node>
+      <node id="PER0007" label="Arana, María Augusta">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="identificador pendiente"/>
+        </attvalues>
+      </node>
+      <node id="PER0008" label="Muñoz, Margarita Práxedes, 1862-1909">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q104777909"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado"/>
+        </attvalues>
+      </node>
+      <node id="PER0009" label="Matto de Turner, Clorinda, 1852-1909">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q463299"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado"/>
+        </attvalues>
+      </node>
+      <node id="PER0010" label="Margueritte, Victor, 1866-1942">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q2616465"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado"/>
+        </attvalues>
+      </node>
+      <node id="PER0011" label="Paul-Margueritte, Lucie, 1886-1955">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q18195871"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="confirmado"/>
+        </attvalues>
+      </node>
+      <node id="PER0012" label="Tinayre, Marcelle, 1870-1948">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q3289600"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="identificador pendiente"/>
+        </attvalues>
+      </node>
+      <node id="ORG0001" label="Consejo Nacional de Mujeres de la República Argentina">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="identificador pendiente"/>
+        </attvalues>
+      </node>
+      <node id="ORG0002" label="Deutscher Frauen-Club">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="—"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="—"/>
+          <attvalue for="nota" value="identificador pendiente"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-112-carta" label="Carta del Consejo Nacional de Mujeres de la República Argentina a Zoil">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="1904-11"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-220/221-carta" label="Carta de Alvina v. P. de Sala a Zoila Aurora Cáceres">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="1903-03-18"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-103-tarjeta" label="Tarjeta de Emma Vely">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="tarjeta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-109/111-carta" label="Copia editada de artículo sobre Helene Lange y entrevista epistolar">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="1896-01-01"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-014-carta" label="Carta de Helene Lange a Zoila Aurora Cáceres">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="1902-11-18"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-242-carnet" label="Carné de Zoila Aurora Cáceres">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="carné de identidad"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-245/249-carta" label="Carta de Katharina Zitelmann [entrevista epistolar]">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-256/258-carta" label="Carta de Gabriele Reuter a Zoila Aurora Cáceres">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[ininteligible]"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-054/056-carta" label="Carta de Katharina Zitelmann a Zoila Aurora Cáceres">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="1902-10-20"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-107/108-tarjeta" label="Tarjeta de María Augusta Arana">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="1904-09-26"/>
+          <attvalue for="nota" value="tarjeta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-116/117-recorte" label="Plumas y lápices">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="recorte"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-121-recorte" label="Eva Angelina">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="recorte"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-244-recorte" label="Clorinda Matto de Turner">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="recorte"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-135/136-nota" label="Nota de Victor Margueritte">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="nota"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-157/158-carta" label="Carta de L. Margueritte a Zoila Aurora Cáceres">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="ZAC-210/211-carta" label="Carta de L. Margueritte a Zoila Aurora Cáceres">
+        <attvalues>
+          <attvalue for="tipoNodo" value="itemAlbum"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[no aplica]"/>
+          <attvalue for="fuente" value="Álbum ZAC 1892-1910"/>
+          <attvalue for="capitulo" value="—"/>
+          <attvalue for="ubicacion" value="[no disponible]"/>
+          <attvalue for="nota" value="carta"/>
+        </attvalues>
+      </node>
+      <node id="PER0016" label="Salomon, Alice, 1872-1948">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q106209"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0021" label="Morgenstern, Lina, 1830-1909">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q66502"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0022" label="Cauer, Minna, 1841-1922">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q75202"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0023" label="Braun, Lily, 1865-1916">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q71372"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0024" label="Raschke, Maria, 1850-1935">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1522221"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0025" label="Augspurg, Anita, 1857-1943">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q71410"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0026" label="Duncker, Dora, 1855-1916">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1243601"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0027" label="Mellien, Marie, 1851-">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q95660421"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0028" label="Broicher, Charlotte">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q95004268"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: concedida"/>
+        </attvalues>
+      </node>
+      <node id="PER0029" label="Dyhrenfurth, Gertrud, 1862-1946">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q104449818"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: no consta"/>
+        </attvalues>
+      </node>
+      <node id="PER0030" label="Andréas-Salomé, Lou, 1861-1937">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q38873"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: rechazada"/>
+        </attvalues>
+      </node>
+      <node id="PER0031" label="Schlieben, condesa de">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: no consta"/>
+        </attvalues>
+      </node>
+      <node id="PER0032" label="López Housselle, María">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: no consta"/>
+        </attvalues>
+      </node>
+      <node id="PER0033" label="Schmidt, Auguste, 1833-1902">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q89677"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: no aplica"/>
+        </attvalues>
+      </node>
+      <node id="PER0034" label="Wachsmuts, señora">
+        <attvalues>
+          <attvalue for="tipoNodo" value="persona"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+          <attvalue for="nota" value="cuestionario: no aplica"/>
+        </attvalues>
+      </node>
+      <node id="ORG0003" label="Allgemeine Deutsche Lehrerinnenverein">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0004" label="Bund Deutscher Frauenvereine">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1005015"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0005" label="Berliner Frauenverein">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0006" label="Verein Frauenwohl">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q2514713"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0007" label="Gesellschaft für ethische Kultur">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0008" label="Mädchen und Frauengruppen für Soziale Hilfsarbeit">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1630675"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0009" label="Deutscher Verein für Frauenstimmrecht">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1205427"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0010" label="Schriftstellerinnenbund">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0011" label="Neuer Volksschullehrerinnen-Verein">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0012" label="Kaufmännischer Hilfsverein für weibliche Angestellte">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="ORG0013" label="Volksküchen">
+        <attvalues>
+          <attvalue for="tipoNodo" value="organización"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="PUB0001" label="Die Frau">
+        <attvalues>
+          <attvalue for="tipoNodo" value="publicación"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1212548"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="PUB0002" label="Die Frauenbewegung">
+        <attvalues>
+          <attvalue for="tipoNodo" value="publicación"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q1212727"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="PUB0003" label="Deutsche Hausfrauen-Zeitung">
+        <attvalues>
+          <attvalue for="tipoNodo" value="publicación"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="https://www.wikidata.org/wiki/Q88568495"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="PUB0004" label="Sonntagsblatt">
+        <attvalues>
+          <attvalue for="tipoNodo" value="publicación"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+      <node id="INS0001" label="Cuestionario de siete preguntas (Berlín, 1902)">
+        <attvalues>
+          <attvalue for="tipoNodo" value="instrumento"/>
+          <attvalue for="granoTexto" value="[no aplica]"/>
+          <attvalue for="idAutoridad" value="[pendiente]"/>
+          <attvalue for="fuente" value="Mujeres de ayer y de hoy (1909)"/>
+          <attvalue for="capitulo" value="VIII"/>
+          <attvalue for="ubicacion" value="871-1127"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges count="105">
+      <edge id="0" source="ZAC-112-carta" target="ORG0001" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="ZAC-112-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="ZAC-220/221-carta" target="PER0006" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="ZAC-220/221-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="ZAC-103-tarjeta" target="PER0004" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="ZAC-103-tarjeta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="ZAC-109/111-carta" target="PER0002" label="mención documental">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención documental"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="ZAC-109/111-carta" target="PER0001" label="recopilación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="recopilación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC selecciona y pega el ítem en el álbum"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="ZAC-014-carta" target="PER0002" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="ZAC-014-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="ZAC-242-carnet" target="ORG0002" label="afiliación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="afiliación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="ZAC-242-carnet" target="PER0001" label="recopilación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="recopilación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC selecciona y pega el ítem en el álbum"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="ZAC-245/249-carta" target="PER0003" label="entrevista epistolar">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista epistolar"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="ZAC-245/249-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="ZAC-256/258-carta" target="PER0005" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="ZAC-256/258-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="ZAC-054/056-carta" target="PER0003" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="ZAC-054/056-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="ZAC-107/108-tarjeta" target="PER0007" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="ZAC-107/108-tarjeta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="ZAC-116/117-recorte" target="PER0009" label="obra recopilada">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="obra recopilada"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="ZAC-116/117-recorte" target="PER0001" label="recopilación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="recopilación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC selecciona y pega el ítem en el álbum"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="ZAC-121-recorte" target="PER0008" label="obra recopilada">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="obra recopilada"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="ZAC-121-recorte" target="PER0001" label="recopilación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="recopilación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC selecciona y pega el ítem en el álbum"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="ZAC-244-recorte" target="PER0009" label="mención documental">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención documental"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="ZAC-244-recorte" target="PER0001" label="recopilación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="recopilación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC selecciona y pega el ítem en el álbum"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="ZAC-135/136-nota" target="PER0010" label="correspondencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="correspondencia"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="ZAC-135/136-nota" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="ZAC-157/158-carta" target="PER0011" label="intermediación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="intermediación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="ZAC-157/158-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="ZAC-210/211-carta" target="PER0011" label="intermediación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="intermediación"/>
+          <attvalue for="predicado" value="prov:wasAttributedTo"/>
+          <attvalue for="fuenteEvidencia" value="transcripción del ítem"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="ZAC-210/211-carta" target="PER0001" label="destinatario">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="destinatario"/>
+          <attvalue for="predicado" value="crm:P02_has_range"/>
+          <attvalue for="fuenteEvidencia" value="ZAC recopila el ítem en el álbum"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC receptora del envío"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="TXT0008" target="PER0002" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="TXT0008" target="PER0003" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="TXT0008" target="PER0004" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="TXT0008" target="PER0005" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="TXT0009" target="PER0006" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="TXT0009" target="ORG0001" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="TXT0010" target="PER0007" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="TXT0010" target="PER0008" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="TXT0010" target="PER0009" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="TXT0011" target="PER0010" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="TXT0015" target="PER0011" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="TXT0012" target="PER0012" label="mención en el libro">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="mención en el libro"/>
+          <attvalue for="predicado" value="crm:P67_refers_to"/>
+          <attvalue for="fuenteEvidencia" value="texto impreso"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="TXT0008" target="ZAC-014-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="TXT0008" target="ZAC-109/111-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="TXT0008" target="ZAC-054/056-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="TXT0008" target="ZAC-245/249-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="TXT0008" target="ZAC-103-tarjeta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="TXT0008" target="ZAC-256/258-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="TXT0009" target="ZAC-220/221-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="TXT0009" target="ZAC-112-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="TXT0010" target="ZAC-107/108-tarjeta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="TXT0010" target="ZAC-121-recorte" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="TXT0010" target="ZAC-116/117-recorte" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="TXT0010" target="ZAC-244-recorte" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="TXT0011" target="ZAC-135/136-nota" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="TXT0015" target="ZAC-157/158-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="TXT0015" target="ZAC-210/211-carta" label="derivación textual">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="derivación textual"/>
+          <attvalue for="predicado" value="prov:wasDerivedFrom"/>
+          <attvalue for="fuenteEvidencia" value="hipótesis interpretativa"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="coincidencia de entidad; no verificada frase a frase"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="PER0011" target="PER0012" label="intermediación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="intermediación"/>
+          <attvalue for="predicado" value="prov:wasInfluencedBy"/>
+          <attvalue for="fuenteEvidencia" value="contenido de ZAC-157/158 y ZAC-210/211"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="gestión de acceso solicitada por ZAC"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="PER0001" target="ORG0002" label="afiliación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="afiliación"/>
+          <attvalue for="predicado" value="crm:P107_has_current_or_former_member"/>
+          <attvalue for="fuenteEvidencia" value="ZAC-242-carnet"/>
+          <attvalue for="confianza" value="confirmado"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="PER0006" target="ORG0001" label="vinculación institucional">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="vinculación institucional"/>
+          <attvalue for="predicado" value="prov:actedOnBehalfOf"/>
+          <attvalue for="fuenteEvidencia" value="cap. IX"/>
+          <attvalue for="confianza" value="hipótesis"/>
+          <attvalue for="notaArista" value="presidencia por confirmar"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="PER0002" target="ORG0003" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="1890, con PER0016 y PER0032 (l. 904)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="PER0016" target="ORG0003" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="1890 (l. 904)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="PER0032" target="ORG0003" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="1890 (l. 904)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="PER0002" target="ORG0005" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 906"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="PER0023" target="ORG0007" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 933"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="PER0016" target="ORG0008" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 937"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="PER0025" target="ORG0009" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="preside desde 1892 (l. 969)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="PER0022" target="ORG0012" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="cofundadora (l. 918)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="PER0021" target="ORG0013" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="cocinas populares, 1866 (l. 888)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="PER0021" target="PUB0003" label="fundación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="fundación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 890"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="PER0002" target="ORG0003" label="presidencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="presidencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 904"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="PER0002" target="ORG0004" label="presidencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="presidencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="sucede a PER0033 (l. 906)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="PER0024" target="ORG0004" label="presidencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="presidencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="sección jurídica (l. 951, 1056)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="PER0024" target="ORG0006" label="presidencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="presidencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 1056"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="PER0024" target="ORG0011" label="presidencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="presidencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 1056"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="PER0025" target="ORG0009" label="presidencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="presidencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="desde 1892 (l. 969)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="PER0003" target="ORG0010" label="presidencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="presidencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="designada para suceder a PER0034 (l. 1003)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="PER0024" target="ORG0006" label="afiliación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="afiliación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="miembro desde 1894 (l. 951)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="PER0027" target="ORG0005" label="afiliación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="afiliación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 1013"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="PER0022" target="ORG0006" label="afiliación">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="afiliación"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="dirige la sociedad (l. 941)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="PER0002" target="PUB0001" label="dirección editorial">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="dirección editorial"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 902"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="PER0022" target="PUB0002" label="dirección editorial">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="dirección editorial"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 918"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="PER0004" target="PUB0004" label="dirección editorial">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="dirección editorial"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 1034"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="85" source="PER0027" target="PUB0001" label="colaboración editorial">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="colaboración editorial"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="l. 1011"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="PER0016" target="PER0002" label="colaboración">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="colaboración"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="colabora al lado de Elena Lange (l. 935)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="87" source="PER0002" target="PER0033" label="sucesión">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="sucesión"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="asume la presidencia de ORG0004 a su muerte (l. 906)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="88" source="PER0003" target="PER0034" label="sucesión">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="sucesión"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="designada para sucederla en ORG0010 (l. 1003)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="PER0002" target="PER0022" label="divergencia">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="divergencia"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="labor reposada frente a la de Mina Cauer (l. 894)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="PER0002" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="PER0003" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="PER0004" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="PER0005" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="PER0016" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="PER0021" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="PER0022" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="PER0023" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="PER0024" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="PER0025" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="PER0026" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="PER0027" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="PER0028" target="INS0001" label="entrevista concedida">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista concedida"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="respuesta citada en el cap. VIII"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="PER0030" target="INS0001" label="entrevista rechazada">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="entrevista rechazada"/>
+          <attvalue for="predicado" value="—"/>
+          <attvalue for="fuenteEvidencia" value="refractaria a los interrogatorios (l. 1046-1048)"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="aserción del propio cap. VIII"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="PER0001" target="PER0011" label="solicitud">
+        <attvalues>
+          <attvalue for="tipoRelacion" value="solicitud"/>
+          <attvalue for="predicado" value="prov:wasInfluencedBy"/>
+          <attvalue for="fuenteEvidencia" value="contenido de ZAC-157/158 y ZAC-210/211"/>
+          <attvalue for="confianza" value="confirmado"/>
+          <attvalue for="notaArista" value="ZAC pide la gestión ante PER0012"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
